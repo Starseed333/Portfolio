@@ -53,6 +53,7 @@ hr.grey {
 hr.grey:after {
   /*background-color: #18BC9C;*/
   background-color: #81b4ef;
+ /* background-color: white;*/
   color: white;
 }
 hr.grey {
@@ -69,7 +70,9 @@ hr.grey:after {
 header {
   text-align: center;
   /*background: #18BC9C;*/
-  background: grey;
+/*  background: grey;*/
+  /*background-image: url('http://wallpaper-gallery.net/images/background-computer-wallpaper/background-computer-wallpaper-12.jpg');*/
+ background-image: url("../img/background.jpg");
   color: white;
 }
 
